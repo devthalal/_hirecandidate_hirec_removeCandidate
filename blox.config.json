@@ -1,1 +1,1 @@
-{"name":"removeCandidate","type":"function","source":{"https":"https://github.com/devthalal/_hiringApp_removeCandidate","ssh":"git@github.com:devthalal/_hiringApp_removeCandidate.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
+{"name":"hirec_removeCandidate","type":"function","source":{"https":"https://github.com/devthalal/_hirecandidate_hirec_removeCandidate","ssh":"git@github.com:devthalal/_hirecandidate_hirec_removeCandidate.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
